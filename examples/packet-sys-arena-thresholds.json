@@ -1,0 +1,17 @@
+{
+  "repo": "packet-sys-arena-core",
+  "thresholds": {
+    "signal": 2,
+    "slack": 2,
+    "confidence": 1,
+    "drag": 3,
+    "ship": 173,
+    "watch": 95
+  },
+  "terms": [
+    "allocation pressure",
+    "dirty state",
+    "guard slack",
+    "layout drift"
+  ]
+}
